@@ -54,7 +54,7 @@
 ## 📌 Pinned Projects
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Akinara666&repo=PeaceMusic&theme=tokyonight&hide_border=true)](https://github.com/Akinara666/PeaceMusic)
+[![ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Akinara666&repo=PeaceMusic&theme=tokyonight&hide_border=true)](https://github.com/Akinara666/PeaceMusic)
 
 
 </div>
