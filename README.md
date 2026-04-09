@@ -92,12 +92,6 @@
 
 ---
 
-## 🌐 Favourite Site
-[<img src="https://www.google.com/s2/favicons?sz=32&domain=reyohoho.github.io" width="20"/> ReYohoho](https://reyohoho.github.io)  
-<sub>Фильмы, Аниме</sub>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=20&fontColor=ffffff" alt="Footer" />
 </div>
