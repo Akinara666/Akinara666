@@ -15,7 +15,6 @@
 ---
 
 ## 🚀 About Me
-- 🎓 4th year ML student  
 - 🐍 Python backend developer (FastAPI, Flask, bots, parsers)  
 - 🤖 Machine Learning: NLP, sentiment analysis, recommender systems
 - 🎮 Gamedev enthusiast: narrative projects  
