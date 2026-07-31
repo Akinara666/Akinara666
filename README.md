@@ -70,24 +70,18 @@ AI-native Discord bot that combines conversational Gemini tool calling with musi
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Akinara666&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&theme=tokyonight&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"
-    width="49%"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akinara666&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"
-    width="46%"
-    alt="Most used languages"
-  />
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Akinara666&hide_border=true&area=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&custom_title=Contribution%20Activity"
-    width="96%"
-    alt="Contribution activity graph"
+    src="https://github-stats-extended.vercel.app/api?username=Akinara666&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&theme=tokyonight&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akinara666&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"
+    height="170"
+    alt="Most Used Languages"
   />
 </div>
 
