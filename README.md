@@ -1,10 +1,4 @@
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Maxim%20%7C%20Akinara666&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Python%20Backend%20%26%20AI%20Developer&descAlignY=56&descSize=18&animation=fadeIn&section=header"
-    alt="Header"
-  />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Akinara666&fontSize=40&fontColor=fff&font=Fira+Code" /> </div>
 
 <div align="center">
   <img
