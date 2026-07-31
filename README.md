@@ -70,8 +70,6 @@ AI-native Discord bot that combines conversational Gemini tool calling with musi
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
 <div align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=Akinara666&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&theme=tokyonight&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"
